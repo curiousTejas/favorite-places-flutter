@@ -16,3 +16,6 @@ Packages used:
 - Riverpod for State Management
 
 Below is the video of the app:
+
+https://github.com/curiousTejas/favorite-places-flutter/assets/71567185/73c680ea-5ecf-4d09-a203-dedb0fc32f02
+
